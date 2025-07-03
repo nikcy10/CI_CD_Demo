@@ -6,6 +6,7 @@ public class Calculator {
         //comment added for change
 
         //another change made
+        //extra comment
     }
 }
 
